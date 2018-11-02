@@ -3,7 +3,7 @@ A short python program help you get a lecture of XMU
 http://event.soe.xmu.edu.cn
 
 # DEVEL
-you may need a python3 environment with modules: requests, PIL, baidu-aip additional.
+you may need a python3 environment with modules: requests, PIL, aip additional.
 try to use pip3 install requests, Pillow, baidu-aip
 
 # USAGE
